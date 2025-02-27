@@ -1,0 +1,9 @@
+.heros{
+    margin: 0;
+    padding: 0;
+}
+.hero_img {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,12 @@
+.t-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+}
+.nav-links {
+    display: flex; 
+    flex-direction: row; 
+    list-style-type: none;
+    gap:20px;
+}
