@@ -1,0 +1,60 @@
+.main{
+    width: 80%;
+}
+.main-divs img{
+    width: 20%;
+    display: block;
+    height: 150px;
+}
+.second_section img{
+    width: 50%;
+    display: block;
+    height: 500px;
+    /* border-top-left-radius: 50% */
+}
+.atr img{
+    width: 80%;
+    display: block;
+    height: 500px
+}
+.third_section img{
+    width: 20%;
+    heigh: 20%;
+}
+.main-divs section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    padding: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    margin: 20px 0 0 30px;
+}
+.main-divs button{
+    padding: 10px 40px 10px 40px;
+    background-color: #fff;
+    color: #black;
+    opacity: 0.9;
+    border: 2px solid  #b69560 ;
+}
+.second_section{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    width: 80%;
+}
+.second_section section{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.second_section button{
+    padding: 10px 40px 10px 40px;
+    background-color: #fff;
+    color: #black;
+    opacity: 0.9;
+    border: 2px solid  #b69560 ;
+}

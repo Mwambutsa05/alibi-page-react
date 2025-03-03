@@ -1,5 +1,50 @@
-*{
-    background-color: #fff;
-    width: 100%''
+
+.footerr{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px
+    width: 80%;
+
 }
+.loop h1{
+    font-size: 50px;
+    color: #d7b179;
+    font-weight: lighter;
+    margin: 0 0 20px 20px;
+}
+.loop-i{
+    display: flex;
+    flex-direction: row;
+}
+.address{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    display: flex;
+    flex-direction: row;
+}
+.loop button{
+    padding: 10px 20px 10px 20px;
+    background-color: #b69560;
+    color: #fff;
+    border: none;
+    border-radius: 15px 0 5px 5px;
+}
+.details{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.details h1{
+    font-size: 20px;
+    text-align: center;
+}
+.details div{
+    padding-top: 50px;
+    text-align: center;
+}
+
 
