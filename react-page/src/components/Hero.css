@@ -8,9 +8,9 @@
 }
 .heros h1{
  position: absolute;
-  top: 900px; 
+  top: 260px; 
   left: 42%;
-  font-size: 129px;
+  font-size: 109px;
   transform: translate(-50%, -50%); 
   color: white; 
   margin-top: 100px;
@@ -19,12 +19,16 @@
 }
 .heros p{
     position: absolute;
-  top: 1100px; 
-  left: 670px;
+    top: 400px; 
+    left: 42%;
   font-size: 20px;
   font-weight: lighter;
   transform: translate(-50%, -50%); 
   color: white; 
   margin-top: 100px;
   width: 80%;
+}
+.hero{
+    margin-top: 60px;
+    padding-top: 60px
 }
